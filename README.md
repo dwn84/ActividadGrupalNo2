@@ -34,3 +34,5 @@ Then init your pageflip, providing the main element (where you want to put the p
 > You need to provide an even number of pages!
 
 > For while, the pageflip only accepts images that is: *769x1200* pixels!
+
+[ActividadGrupalNo2](https://dwn84.github.io/ActividadGrupalNo2/)
